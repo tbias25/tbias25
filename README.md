@@ -1,5 +1,5 @@
 ### hello there🚀
-I’m just a twenty years old software engineering🖥 student from germany🇩🇪
+I’m just a twenty years old software engineering student from germany🇩
 
 <!--
 **tbias25/tbias25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
